@@ -1,1 +1,1 @@
-A simple tic-tac-toe game using react.
+A simple tic-tac-toe game using React.
